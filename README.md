@@ -1,2 +1,2 @@
 # ML_in_Python
-This repository has Machine Learning Implementation using Different Algorithms in Python
+This repository has Different Algorithms in Machine Learning Dne using Scikit Learn Package.
